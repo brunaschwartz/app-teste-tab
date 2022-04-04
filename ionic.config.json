@@ -1,0 +1,8 @@
+{
+  "name": "app-teste-tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2294c410"
+}
